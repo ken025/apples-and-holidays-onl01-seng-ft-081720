@@ -17,7 +17,7 @@ holiday_supplies = {
 }
 
 def second_supply_for_fourth_of_july(holiday_supplies)
-  holiday_supplies[:summer][:fourth_of_july][1]
+  holiday_supplies[:spring][:memorial_day][0]
 end
 
 def second_supply_for_fourth_of_july(holiday_hash)
